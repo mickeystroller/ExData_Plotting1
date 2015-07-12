@@ -1,3 +1,8 @@
+
+##For the person who evalute my work
+1. I put the raw dataset in the parent directory, and give the relative path in all four R scripts.
+2. All four R scripts requires Packages "lubridate" and "data.table". When you run my codes, it will automatically install these packages. 
+
 ## Introduction
 
 This assignment uses data from

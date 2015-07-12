@@ -5,7 +5,7 @@ library(lubridate)
 library(data.table)
 
 #Loading in data
-DT <- fread("household_power_consumption.txt",na.strings = "?", 
+DT <- fread("../household_power_consumption.txt",na.strings = "?", 
             header=TRUE, stringsAsFactors = FALSE);
 
 #Subsetting and Type conversion
